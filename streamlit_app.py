@@ -11,7 +11,7 @@ shoutouts = [
     'timestamp':dt(2024,2,12,17,21,00),
     'item':"automation project",
     'link':'https://podio.com/evologic-technologiescom/corefacility/apps/projects/items/13',
-    'text': """@Wieland Reichelt i printed out what is linked in the notes section. The notes section and the diagram for the "level above the tech stack" is the next topic from my side.""",
+    'text': """i printed out what is linked in the notes section. The notes section and the diagram for the "level above the tech stack" is the next topic from my side.""",
     'answered': None,#dt(2024,12,31,00,00,00),
     },
     {
@@ -27,7 +27,7 @@ shoutouts = [
     'timestamp': dt(2024,2,13,8,10,00),
     'item': 'WRE prios', 
     'link':'',
-    'text': """@Wieland Reichelt i'm curious how you DISTINGUISH between "DIY" and "ready-to-use". How would you classify the "weidmuller fieldbus coupler"? The Dasgip modules?""",
+    'text': """i'm curious how you DISTINGUISH between "DIY" and "ready-to-use". How would you classify the "weidmuller fieldbus coupler"? The Dasgip modules?""",
     'answered': None, #dt(2024,12,31,00,00,00)
     },
     {
