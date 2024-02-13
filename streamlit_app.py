@@ -31,12 +31,12 @@ shoutouts = [
     'answered': None, #dt(2024,12,31,00,00,00)
     },
     {
-    'type':'',
-    'colleague': None,
-    'timestamp': None, #dt(2024,1,1,00,00,00),
-    'item': None, 
+    'type':'shoutout',
+    'colleague': 'WRE',
+    'timestamp': dt(2024,2,13,14,20,00),
+    'item': 'WRE prios', 
     'link':'',
-    'text': """""",
+    'text': """is building software part of the solution to the data standardization topic?""",
     'answered': None, #dt(2024,12,31,00,00,00)
     },
     {
@@ -46,7 +46,6 @@ shoutouts = [
     'text': """""",
     'answered': None #dt(2024,12,31,00,00,00)
     },
-
 ]
 
 df = pd.DataFrame(shoutouts)
