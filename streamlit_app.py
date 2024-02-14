@@ -37,7 +37,7 @@ shoutouts = [
     'item': 'WRE prios', 
     'link':'',
     'text': """is building software part of the solution to the data standardization topic?""",
-    'answered': None, #dt(2024,12,31,00,00,00)
+    'answered': dt(2024,2,14,21,34,00)
     },
     {
     'type':'',
