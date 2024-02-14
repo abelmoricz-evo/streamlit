@@ -40,9 +40,18 @@ shoutouts = [
     'answered': dt(2024,2,14,21,34,00)
     },
     {
+    'type':'shoutout',
+    'colleague': 'WRE',
+    'item': 'automation project', 
+    'timestamp': dt(2024,2,14,11,7,00),
+    'text': """the goal consists of 3 points. I'm ready for this item to be approved but i dont think we are on the same page yet.""",
+    'answered': None #dt(2024,12,31,00,00,00)
+    },
+     {
     'type':'',
-    'colleague': None,
-    'timestamp': None, #dt(2024,12,31,00,00,00),
+    'colleague': '',
+    'item': '', 
+    'timestamp': None #dt(2024,2,14,11,7,00),
     'text': """""",
     'answered': None #dt(2024,12,31,00,00,00)
     },
